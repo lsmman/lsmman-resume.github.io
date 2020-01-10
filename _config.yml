@@ -17,8 +17,8 @@ title: Resume of Theo
 email: lsmman07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I have researched data format and preprocessing about AI and ML. and I'm going to more. I interested data engineering and RestAPI and serverless
-baseurl: "lsmman-resume.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/resume" # the subpath of your site, e.g. /blog
+url: "lsmman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
